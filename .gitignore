@@ -7,13 +7,9 @@ __pycache__/
 *.pyd
 *.sqlite3
 *.log
-*.env
-.env.*
 
 # Virtual environments
 venv/
-env/
-ENV/
 
 # Python build
 build/
@@ -36,10 +32,7 @@ frontend/dist/
 # Environment Variables
 # ===============================
 .env
-.env.local
-.env.development
-.env.test
-.env.production
+
 
 # ===============================
 # Docker
